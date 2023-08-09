@@ -1,0 +1,50 @@
+# ******************* first day of code challenge  ********************************
+
+#   how to print your output
+print(" ************************** first day of code**********************")
+print("123456789")
+
+# **********variables (variable is use as a container that hold your value or store your data )************
+# types
+# Integers (int): Used to store whole numbers, both positive and negative.
+age= 19
+print(age)
+fahrenhiet = -2
+print(fahrenhiet)
+
+# Floating-Point Numbers (float): Used to store decimal numbers.
+percentage = 85.6
+print(percentage)
+pi = 3.14159
+print(pi)
+ 
+# Strings (str): Used to store sequences of characters, such as text.
+name = "Abid Shaikh"
+print(name)
+greeting = "Hello, Abid Shaikh " 
+print(greeting)
+
+# Booleans (bool): Used to store either True or False.
+x = 5
+y = 10
+is_greater = x > y 
+print(is_greater)
+is_equal = x == y   
+print(is_equal)
+# single quote and double quote both used in python
+
+# Concatenate(concatenation refers to the process of combining two or more strings or sequences together to create a larger sequence.)
+first_name = "Abid"
+last_name = "Ali"
+full_name = first_name + " " + last_name
+print(full_name)  
+
+#   how to get input
+
+name =input("what is your name?\n")
+print("my name is " + name)
+age = input ("what is your age?\n")
+print("my age is " + age)
+
+# (\n) is use for new line and (\t )is use for tab 
+print("                             thanks                ")
